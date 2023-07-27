@@ -1,0 +1,17 @@
+html{
+   background: rgb(22, 181, 181);
+}
+.chess{
+   height: 800px;
+   width: 800px;
+   background-color: white;
+   margin: 40px auto;
+}
+.black{
+   height: 100px;
+   width: 100px;
+   background-color: black;
+}
+.white{
+   background-color: white;
+}
