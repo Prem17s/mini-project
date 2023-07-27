@@ -1,0 +1,46 @@
+#{
+    margin: 2px;
+    
+}
+body{
+    border: 2px solid black;
+    padding: 15px;
+}
+h1{
+    text-align: center;
+    box-sizing: border-box;
+    text-decoration: underline;
+    padding: 10px;
+
+}
+nav{
+    position: sticky;
+}
+#mytext{
+    font-weight: ;
+}
+ol li{
+   
+    width:100%;
+    background-color: teal;
+    list-style-type: none;
+    display:inline;
+   padding: 10px;
+
+}
+
+img{
+    float: right;
+    padding-top: 50px;
+}
+main{
+    padding-top: 50px;
+    line-height: 1.5rem;
+    
+}
+h2{
+    line-height: 50px;
+}
+p{
+    text-indent: 30px;
+}
