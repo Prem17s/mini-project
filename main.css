@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 670px;
+}
+body{
+   position:relative;
+    border-right: 50%;
+    padding: 10px;
+    
+}
+.resume{
+   
+    position: absolute;
+    left: 50%;
+}
+header{
+   
+    padding-left: 60%;
+    background-color: rgb(23, 2, 2);
+    padding: 60px 0px 60px;
+    color: white;
+     text-align: center;
+     background-image: url(img/prem\ photo.jpg) ;
+     background-repeat: no-repeat;
+     background-size: contain;
+     background-position:90%; 
+}
+
+main{
+    
+    margin-left:;
+    display: block;
+    text-align: justify;
+}
+h2{
+    color: olivedrab;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+p{
+  text-align: justify;
+  text-indent: 60px;
+  line-height: 0.8cm;
+}
+table tr{
+    width: 70%;
+    border: 1px solid rgb(252, 251, 251);
+    border-collapse: collapse;
+    line-height: 0.8cm;
+    padding-top: 20px;
+}
+.left{
+    border: 2px solid rgb(36, 9, 9);
+    background-color: rgb(36, 9, 9);
+    color:#ffffff;
+   max-height: 100% ;
+   width: 45% ;
+   line-height: 40px;
+   padding-left: 20px;
+   
+}
+.phone{
+    color: #ffffff;
+    text-decoration: none;
+}
+img{
+    height: 20px;
+    width: 20px;
+}
+li{
+    text-align: 70%;
+    list-style-type: ;
+}
+
+
+
